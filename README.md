@@ -11,6 +11,14 @@ We had numerous versions of the project. The code presented here is some comprom
 
 There's another version or two with a prettier UI. If I come across it, I'll add it in another branch, but I think there was a bug in its call routing under certain conditions, which is (hopefully) resolved in this copy.
 
+# Deployment
+We tested the following methods of deployment:
+  - cPanel
+  - Localhost 
+  - Heroku
+
+Due to the use of PHP, cPanel seems to be an especially advantageous approach. However for earlier iterations that more closely resembled our upstream example's repo, Heroku was very convenient.
+
 # Maintenance
 This project is most definitely *not* under active development or being maintained. Feel free to fork it and make your own project under any name if you're interested in maintaining it.
 
